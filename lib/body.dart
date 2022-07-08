@@ -11,6 +11,7 @@ class Body extends StatelessWidget {
         child: Column(
           children: [
             const Text("Halo gais"),
+            const Text("Coba"),
             Image.asset("assets/images/achive.png")
           ],
         ),
