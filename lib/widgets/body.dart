@@ -52,6 +52,9 @@ class _BodyState extends State<Body> {
                 style: subStyle,
                 textAlign: TextAlign.center,
               ),
+              const SizedBox(
+                height: 34,
+              )
             ],
           ),
         ),
